@@ -1,3 +1,8 @@
+#Lu Tau Recode?
+#jangan Recode Ya khentod
+#Malu Masak Mastah Recode
+#Ngakak Anjg aoakoakaoakaoaka
+
 #usr/bin/bash
 clear
 bi='\033[34;1m' #biru
